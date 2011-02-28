@@ -30,7 +30,7 @@ I don’t really test with syntax files that I don't use.  If you find a situati
 
 * 1.6
 
-    Swapped the spelling-error color so that setting 'cursorline' or 'cursorcolumn' doesn't make words invisible; added "ColorColumn" to support 'colorcolumn' in Vim 7.3.
+    Swapped the spelling-error color so that setting `'cursorline'` or `'cursorcolumn'` doesn't make words invisible; added `ColorColumn` to support `'colorcolumn'` in Vim 7.3.
 
 * 1.5
 
@@ -38,7 +38,7 @@ I don’t really test with syntax files that I don't use.  If you find a situati
 
 * 1.4
 
-    More Vim 7 support: added the "MatchParen" group for ()[]{} matching.
+    More Vim 7 support: added the `MatchParen` group for ()[]{} matching.
 
 * 1.3
 
@@ -46,16 +46,16 @@ I don’t really test with syntax files that I don't use.  If you find a situati
 
 * 1.2
 
-    Added "SpellErrors" group for use with vimspell.
+    Added `SpellErrors` group for use with vimspell.
 
 * 1.1
 
-    Added "IncSearch" group for improved visibility in incremental searches.
+    Added `IncSearch` group for improved visibility in incremental searches.
 
 * 1.0
 
     Minor tweaks.
 
-* 0.95
+* 0.95 (2002-09-28)
 
     Initial release.
