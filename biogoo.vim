@@ -8,7 +8,8 @@
 " A color scheme for Vim with colorful text on a light gray background.
 "
 " Installation:
-"	Copy to ~/.vim/colors; do :color biogoo
+"	1.  Copy to ~/.vim/colors
+"	2.  :color biogoo
 "
 " Customization Options:
 "	Use a 'normal' cursor color:
