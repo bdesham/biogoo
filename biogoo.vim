@@ -36,6 +36,7 @@ hi DiffDelete		guifg=#7f0000 guibg=#e5e5e5
 hi DiffText			guifg=#ee0000 guibg=#e5e5e5
 hi Directory		guifg=#b85d00
 hi Error			guifg=#d6d6d6 guibg=#7f0000
+hi Exception		guifg=#7f0000
 hi ErrorMsg			guifg=#ffffff guibg=#ff0000 gui=bold
 hi Float			guifg=#b85d00
 hi FoldColumn		guifg=#00007f guibg=#e5e5e5
@@ -44,6 +45,7 @@ hi Function			guifg=#7f0000
 hi Identifier		guifg=#004000
 hi Include			guifg=#295498 gui=bold
 hi IncSearch		guifg=#ffffff guibg=#0000ff gui=bold
+hi Label			guifg=#404040
 hi LineNr			guifg=#303030 guibg=#e5e5e5 gui=underline
 hi Keyword			guifg=#00007f
 hi Macro			guifg=#295498
