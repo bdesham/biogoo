@@ -4,13 +4,13 @@ A color scheme for Vim with colorful text on a light gray background.
 
 ## Description
 
-This is a bunch of colors that I thought were visually appealing and looked good together.  The background is light shades of gray, and the text is all dark colors.  Note that this color scheme only works in GUI mode (i.e., gvim and not “terminal vim”).
+This is a bunch of colors that I thought were visually appealing and looked good together. The background is light shades of gray, and the text is all dark colors. Note that this color scheme only works in GUI mode (i.e., gvim and not “terminal vim”).
 
-I don’t really test with syntax files that I don't use.  If you find a situation that looks crappy in biogoo, or if you find something lacking in general, please e-mail me with details and I’ll fix the problem :-)
+I don’t really test with syntax files that I don’t use. If you find a situation that looks crappy in biogoo, or if you find something lacking in general, please email me with details and I’ll fix the problem :-)
 
 ## Screenshot
 
-![biogoo screenshot](https://github.com/bdesham/biogoo/raw/master/screenshot.png)
+<img src="https://github.com/bdesham/biogoo/raw/master/screenshot.png" alt="Screenshot of this color scheme" width="662" height="571" />
 
 ## Thanks to…
 
