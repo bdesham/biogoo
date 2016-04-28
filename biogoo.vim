@@ -1,21 +1,14 @@
-" Vim color File
+" Vim color file
 " Name:			biogoo
-" Maintainer:	Benjamin Esham <bdesham@gmail.com>
-" Last Change:	2011-02-28
-" Version:		1.6.2
+" Maintainer:	Benjamin Esham
+" Last Change:	2016-04-28
+" Version:		2.0
 " Website:		https://github.com/bdesham/biogoo
 "
 " A color scheme for Vim with colorful text on a light gray background.
 "
-" Installation:
-"	1.  Copy to ~/.vim/colors
-"	2.  :color biogoo
-"
-" Customization Options:
-"	Use a 'normal' cursor color:
-"		let g:biogoo_normal_cursor = 1
-"
-" For a full README and version history, see the website given above.
+" For installation instructions, license info, etc., see README.md or visit the
+" website given above.
 
 set background=light
 hi clear
@@ -27,6 +20,7 @@ let g:colors_name = "biogoo"
 hi Comment			guifg=#0000c3
 hi ColorColumn		guibg=#e0e0e0
 hi Constant			guifg=#0000ff
+hi Cursor			guifg=#ffffff guibg=#00007f
 hi CursorColumn		guibg=#ffffff
 hi CursorLine		guibg=#ffffff
 hi Delimiter		guifg=#00007f
@@ -90,15 +84,5 @@ endif
 hi VisualNOS		guifg=#007f00 guibg=#e5e5e5
 hi WarningMsg		guifg=#500000
 hi WildMenu			guifg=#540054
-
-" Non-standard highlighting (e.g. for plugins)
-
-" vimspell
-hi SpellErrors		guibg=#f0f0f0 guifg=#7f0000 gui=undercurl guisp=#7f0000
-
-if !exists("g:biogoo_normal_cursor")
-	" use a gray-on-blue cursor
-	hi Cursor		guifg=#ffffff guibg=#00007f
-endif
 
 " vim:noet:ts=4 tw=80 cc=+1
