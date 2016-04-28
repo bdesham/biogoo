@@ -4,6 +4,16 @@ A color scheme for Vim with colorful text on a light gray background.
 
 <img src="https://github.com/bdesham/biogoo/raw/master/screenshot.png" alt="Screenshot of this color scheme" width="662" height="571" />
 
+## Installation
+
+If you’re using [vim-plug], add
+
+    Plug 'bdesham/biogoo'
+
+to your vimrc. To install manually, copy the “biogoo.vim” file into your ~/.vim/colors directory.
+
+[vim-plug]: https://github.com/junegunn/vim-plug
+
 ## Compatibility
 
 Biogoo should work with at least Vim 6 and Vim 7. It will only look right in GUI mode, not “terminal mode”, although that might change with Vim 8. I don’t know if it’s compatible with Neovim.
