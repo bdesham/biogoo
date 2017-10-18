@@ -36,7 +36,7 @@ hi Float			guifg=#cc6600
 hi FoldColumn		guifg=#00007f guibg=#e5e5e5
 hi Folded			guifg=#00007f guibg=#e5e5e5
 hi Function			guifg=#7f0000
-hi Identifier		guifg=#004000
+hi Identifier		guifg=#007a00
 hi Include			guifg=#295498 gui=bold
 hi IncSearch		guifg=#ffffff guibg=#0000ff gui=bold
 hi Label			guifg=#404040
