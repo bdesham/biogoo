@@ -28,11 +28,11 @@ hi DiffAdd			guifg=#007f00 guibg=#e5e5e5
 hi DiffChange		guifg=#00007f guibg=#e5e5e5
 hi DiffDelete		guifg=#7f0000 guibg=#e5e5e5
 hi DiffText			guifg=#ee0000 guibg=#e5e5e5
-hi Directory		guifg=#b85d00
+hi Directory		guifg=#cc6600
 hi Error			guifg=#d6d6d6 guibg=#7f0000
 hi Exception		guifg=#7f0000
 hi ErrorMsg			guifg=#ffffff guibg=#ff0000 gui=bold
-hi Float			guifg=#b85d00
+hi Float			guifg=#cc6600
 hi FoldColumn		guifg=#00007f guibg=#e5e5e5
 hi Folded			guifg=#00007f guibg=#e5e5e5
 hi Function			guifg=#7f0000
@@ -48,7 +48,7 @@ hi ModeMsg			guifg=#00007f
 hi MoreMsg			guifg=#00007f
 hi NonText			guifg=#007f00
 hi Normal			guifg=#000000 guibg=#d6d6d6
-hi Number			guifg=#b85d00
+hi Number			guifg=#cc6600
 hi Operator			guifg=#00007f
 hi Pmenu			guifg=#000000 guibg=#cc9999
 hi PmenuSel			guifg=#ffffff guibg=#993333
@@ -63,7 +63,7 @@ hi SpecialKey		guifg=#00007f
 hi SpellBad			guifg=#7f0000 guibg=#f0f0f0 gui=undercurl guisp=#7f0000
 hi SpellCap			guifg=#7f007f guibg=#f0f0f0 gui=undercurl guisp=#7f007f
 hi SpellLocal		guifg=#007f7f guibg=#f0f0f0 gui=undercurl guisp=#007f7f
-hi SpellRare		guifg=#b85d00 guibg=#f0f0f0 gui=undercurl guisp=#b85d00
+hi SpellRare		guifg=#cc6600 guibg=#f0f0f0 gui=undercurl guisp=#cc6600
 hi Statement		guifg=#00007f gui=none
 hi StatusLine		guifg=#00007f guibg=#ffffff
 hi StatusLineNC		guifg=#676767 guibg=#ffffff
@@ -74,7 +74,7 @@ hi TabLineSel		guifg=#00007f guibg=#eeeeee gui=bold
 hi Title			guifg=#404040 gui=bold
 hi Todo				guifg=#00007f guibg=#e5e5e5 gui=underline
 hi Type				guifg=#540054 gui=bold
-hi Underlined		guifg=#b85d00
+hi Underlined		guifg=#cc6600
 hi VertSplit		guifg=#676767 guibg=#ffffff
 if version < 700
 	hi Visual		guifg=#7f7f7f guibg=#ffffff
