@@ -17,7 +17,7 @@ if exists("syntax_on")
 endif
 let g:colors_name = "biogoo"
 
-hi Comment			guifg=#0000c3
+hi Comment			guifg=#0000ba
 hi ColorColumn		guibg=#e0e0e0
 hi Constant			guifg=#0000ff
 hi Cursor			guifg=#ffffff guibg=#00007f
