@@ -67,7 +67,7 @@ hi SpellRare		guifg=#cc6600 guibg=#f0f0f0 gui=undercurl guisp=#cc6600
 hi Statement		guifg=#00007f gui=none
 hi StatusLine		guifg=#00007f guibg=#ffffff
 hi StatusLineNC		guifg=#676767 guibg=#ffffff
-hi String			guifg=#d10000
+hi String			guifg=#d11518
 hi TabLine			guifg=#222222 guibg=#d6d6d6
 hi TabLineFill		guifg=#d6d6d6
 hi TabLineSel		guifg=#00007f guibg=#eeeeee gui=bold
