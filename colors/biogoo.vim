@@ -55,7 +55,7 @@ hi PmenuSel			guifg=#ffffff guibg=#993333
 hi PmenuSbar		guibg=#99cc99
 hi PmenuThumb		guifg=#339933
 hi PreCondit		guifg=#295498 gui=bold
-hi PreProc			guifg=#0c3b6b gui=bold
+hi PreProc			guifg=#0a447e gui=bold
 hi Question			guifg=#00007f
 hi Search			guibg=#ffff00
 hi Special			guifg=#007a00
@@ -73,7 +73,7 @@ hi TabLineFill		guifg=#d6d6d6
 hi TabLineSel		guifg=#00007f guibg=#eeeeee gui=bold
 hi Title			guifg=#404040 gui=bold
 hi Todo				guifg=#00007f guibg=#e5e5e5 gui=underline
-hi Type				guifg=#540054 gui=bold
+hi Type				guifg=#660066 gui=bold
 hi Underlined		guifg=#cc6600
 hi VertSplit		guifg=#676767 guibg=#ffffff
 if version < 700
