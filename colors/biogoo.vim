@@ -24,7 +24,7 @@ hi Cursor			guifg=#ffffff guibg=#00007f
 hi CursorColumn		guibg=#ffffff
 hi CursorLine		guibg=#ffffff
 hi Delimiter		guifg=#00007f
-hi DiffAdd			guifg=#007f00 guibg=#e5e5e5
+hi DiffAdd			guifg=#007a00 guibg=#e5e5e5
 hi DiffChange		guifg=#00007f guibg=#e5e5e5
 hi DiffDelete		guifg=#7f0000 guibg=#e5e5e5
 hi DiffText			guifg=#ee0000 guibg=#e5e5e5
@@ -46,7 +46,7 @@ hi Macro			guifg=#295498
 hi MatchParen		guifg=#ffffff guibg=#00a000
 hi ModeMsg			guifg=#00007f
 hi MoreMsg			guifg=#00007f
-hi NonText			guifg=#007f00
+hi NonText			guifg=#007a00
 hi Normal			guifg=#000000 guibg=#d6d6d6
 hi Number			guifg=#cc6600
 hi Operator			guifg=#00007f
@@ -58,7 +58,7 @@ hi PreCondit		guifg=#295498 gui=bold
 hi PreProc			guifg=#0c3b6b gui=bold
 hi Question			guifg=#00007f
 hi Search			guibg=#ffff00
-hi Special			guifg=#007f00
+hi Special			guifg=#007a00
 hi SpecialKey		guifg=#00007f
 hi SpellBad			guifg=#7f0000 guibg=#f0f0f0 gui=undercurl guisp=#7f0000
 hi SpellCap			guifg=#7f007f guibg=#f0f0f0 gui=undercurl guisp=#7f007f
@@ -81,7 +81,7 @@ if version < 700
 else
 	hi Visual		guifg=#ffffff guibg=#7f7f7f
 endif
-hi VisualNOS		guifg=#007f00 guibg=#e5e5e5
+hi VisualNOS		guifg=#007a00 guibg=#e5e5e5
 hi WarningMsg		guifg=#500000
 hi WildMenu			guifg=#540054
 
