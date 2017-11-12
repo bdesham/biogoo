@@ -2,7 +2,7 @@
 
 A color scheme for Vim with colorful text on a light gray background.
 
-<img src="https://github.com/bdesham/biogoo/raw/master/screenshot.png" alt="Screenshot of this color scheme" width="662" height="571" />
+<img src="https://github.com/bdesham/biogoo/raw/master/screenshot.png" alt="Screenshot of this color scheme" width="683" height="610" />
 
 ## Installation
 
