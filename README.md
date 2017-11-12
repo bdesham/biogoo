@@ -18,6 +18,13 @@ to your vimrc. To install manually, copy the “biogoo.vim” file into your ~/.
 
 Biogoo works with “GUI mode” (not “terminal mode”) under Vim versions 6–8.
 
+If you’re using [vim-airline], you can find a Biogoo theme in the official [vim-airline-themes] repository. (The screenshot above demonstrates the vim-airline theme.) To use it, make sure you have both vim-airline and vim-airline-themes installed and run
+
+    :AirlineTheme biogoo
+
+[vim-airline]: https://github.com/vim-airline/vim-airline
+[vim-airline-themes]: https://github.com/vim-airline/vim-airline-themes
+
 ## Author
 
 This color scheme was created by [Benjamin Esham](https://esham.io).
