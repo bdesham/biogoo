@@ -16,7 +16,7 @@ to your vimrc. To install manually, copy the “biogoo.vim” file into your ~/.
 
 ## Compatibility
 
-Biogoo should work with at least Vim 6 and Vim 7. It will only look right in GUI mode, not “terminal mode”, although that might change with Vim 8. I don’t know if it’s compatible with Neovim.
+Biogoo works with “GUI mode” (not “terminal mode”) under Vim versions 6–8.
 
 ## Author
 
@@ -30,6 +30,8 @@ Thanks are due to Scott F., Matt F., and sc for feature suggestions and bug repo
 
 ## Version history
 
+* 2.1 (2017-11-11)
+    - Made relatively minor changes to the brightness and saturation of several of the colors.
 * 2.0 (2016-04-28)
     - Removed the “normal cursor” option.
     - Removed support for the vimspell plugin, which was made obsolete by Vim 7’s built-in spell checking.

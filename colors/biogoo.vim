@@ -1,8 +1,8 @@
 " Vim color file
 " Name:			biogoo
 " Maintainer:	Benjamin Esham
-" Last Change:	2016-04-28
-" Version:		2.0
+" Last Change:	2017-11-11
+" Version:		2.1
 " Website:		https://github.com/bdesham/biogoo
 "
 " A color scheme for Vim with colorful text on a light gray background.
@@ -85,4 +85,4 @@ hi VisualNOS		guifg=#007a00 guibg=#e5e5e5
 hi WarningMsg		guifg=#500000
 hi WildMenu			guifg=#540054
 
-" vim:noet:ts=4 tw=80 cc=+1
+" vim: noet ts=4 tw=80 cc=+1
