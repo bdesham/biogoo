@@ -18,71 +18,71 @@ endif
 let g:colors_name = "biogoo"
 
 hi Comment			guifg=#0000ba
-hi ColorColumn		guibg=#e0e0e0
+hi ColorColumn						guibg=#e0e0e0
 hi Constant			guifg=#0000ff
-hi Cursor			guifg=#ffffff guibg=#00007f
-hi CursorColumn		guibg=#ffffff
-hi CursorLine		guibg=#ffffff
+hi Cursor			guifg=#ffffff	guibg=#00007f
+hi CursorColumn						guibg=#ffffff
+hi CursorLine						guibg=#ffffff
 hi Delimiter		guifg=#00007f
-hi DiffAdd			guifg=#007a00 guibg=#e5e5e5
-hi DiffChange		guifg=#00007f guibg=#e5e5e5
-hi DiffDelete		guifg=#7f0000 guibg=#e5e5e5
-hi DiffText			guifg=#ee0000 guibg=#e5e5e5
+hi DiffAdd			guifg=#007a00	guibg=#e5e5e5
+hi DiffChange		guifg=#00007f	guibg=#e5e5e5
+hi DiffDelete		guifg=#7f0000	guibg=#e5e5e5
+hi DiffText			guifg=#ee0000	guibg=#e5e5e5
 hi Directory		guifg=#cc6600
-hi Error			guifg=#d6d6d6 guibg=#7f0000
+hi Error			guifg=#d6d6d6	guibg=#7f0000
 hi Exception		guifg=#7f0000
-hi ErrorMsg			guifg=#ffffff guibg=#ff0000 gui=bold
+hi ErrorMsg			guifg=#ffffff	guibg=#ff0000	gui=bold
 hi Float			guifg=#cc6600
-hi FoldColumn		guifg=#00007f guibg=#e5e5e5
-hi Folded			guifg=#00007f guibg=#e5e5e5
+hi FoldColumn		guifg=#00007f	guibg=#e5e5e5
+hi Folded			guifg=#00007f	guibg=#e5e5e5
 hi Function			guifg=#7f0000
 hi Identifier		guifg=#007a00
-hi Include			guifg=#295498 gui=bold
-hi IncSearch		guifg=#ffffff guibg=#0000ff gui=bold
+hi Include			guifg=#295498					gui=bold
+hi IncSearch		guifg=#ffffff	guibg=#0000ff	gui=bold
 hi Label			guifg=#404040
-hi LineNr			guifg=#303030 guibg=#e5e5e5 gui=underline
+hi LineNr			guifg=#303030	guibg=#e5e5e5	gui=underline
 hi Keyword			guifg=#00007f
 hi Macro			guifg=#295498
-hi MatchParen		guifg=#ffffff guibg=#00a000
+hi MatchParen		guifg=#ffffff	guibg=#00a000
 hi ModeMsg			guifg=#00007f
 hi MoreMsg			guifg=#00007f
 hi NonText			guifg=#007a00
-hi Normal			guifg=#000000 guibg=#d6d6d6
+hi Normal			guifg=#000000	guibg=#d6d6d6
 hi Number			guifg=#cc6600
 hi Operator			guifg=#00007f
-hi Pmenu			guifg=#000000 guibg=#cc9999
-hi PmenuSel			guifg=#ffffff guibg=#993333
-hi PmenuSbar		guibg=#99cc99
+hi Pmenu			guifg=#000000	guibg=#cc9999
+hi PmenuSel			guifg=#ffffff	guibg=#993333
+hi PmenuSbar						guibg=#99cc99
 hi PmenuThumb		guifg=#339933
-hi PreCondit		guifg=#295498 gui=bold
-hi PreProc			guifg=#0a447e gui=bold
+hi PreCondit		guifg=#295498					gui=bold
+hi PreProc			guifg=#0a447e					gui=bold
 hi Question			guifg=#00007f
-hi Search			guibg=#ffff00
+hi Search							guibg=#ffff00
 hi Special			guifg=#007a00
 hi SpecialKey		guifg=#00007f
-hi SpellBad			guifg=#7f0000 guibg=#f0f0f0 gui=undercurl guisp=#7f0000
-hi SpellCap			guifg=#7f007f guibg=#f0f0f0 gui=undercurl guisp=#7f007f
-hi SpellLocal		guifg=#007f7f guibg=#f0f0f0 gui=undercurl guisp=#007f7f
-hi SpellRare		guifg=#cc6600 guibg=#f0f0f0 gui=undercurl guisp=#cc6600
-hi Statement		guifg=#00007f gui=none
-hi StatusLine		guifg=#00007f guibg=#ffffff
-hi StatusLineNC		guifg=#676767 guibg=#ffffff
+hi SpellBad			guifg=#7f0000	guibg=#f0f0f0	gui=undercurl guisp=#7f0000
+hi SpellCap			guifg=#7f007f	guibg=#f0f0f0	gui=undercurl guisp=#7f007f
+hi SpellLocal		guifg=#007f7f	guibg=#f0f0f0	gui=undercurl guisp=#007f7f
+hi SpellRare		guifg=#cc6600	guibg=#f0f0f0	gui=undercurl guisp=#cc6600
+hi Statement		guifg=#00007f					gui=none
+hi StatusLine		guifg=#00007f	guibg=#ffffff
+hi StatusLineNC		guifg=#676767	guibg=#ffffff
 hi String			guifg=#d11518
-hi TabLine			guifg=#222222 guibg=#d6d6d6
+hi TabLine			guifg=#222222	guibg=#d6d6d6
 hi TabLineFill		guifg=#d6d6d6
-hi TabLineSel		guifg=#00007f guibg=#eeeeee gui=bold
-hi Title			guifg=#404040 gui=bold
-hi Todo				guifg=#00007f guibg=#e5e5e5 gui=underline
-hi Type				guifg=#660066 gui=bold
+hi TabLineSel		guifg=#00007f	guibg=#eeeeee	gui=bold
+hi Title			guifg=#404040					gui=bold
+hi Todo				guifg=#00007f	guibg=#e5e5e5	gui=underline
+hi Type				guifg=#660066					gui=bold
 hi Underlined		guifg=#cc6600
-hi VertSplit		guifg=#676767 guibg=#ffffff
+hi VertSplit		guifg=#676767	guibg=#ffffff
 if version < 700
-	hi Visual		guifg=#7f7f7f guibg=#ffffff
+	hi Visual		guifg=#7f7f7f	guibg=#ffffff
 else
-	hi Visual		guifg=#ffffff guibg=#7f7f7f
+	hi Visual		guifg=#ffffff	guibg=#7f7f7f
 endif
-hi VisualNOS		guifg=#007a00 guibg=#e5e5e5
+hi VisualNOS		guifg=#007a00	guibg=#e5e5e5
 hi WarningMsg		guifg=#500000
 hi WildMenu			guifg=#540054
 
-" vim: noet ts=4 tw=80 cc=+1
+" vim: noet ts=4 tw=80
