@@ -23,6 +23,7 @@ hi Constant			guifg=#0000ff									ctermfg=21
 hi Cursor			guifg=#ffffff	guibg=#00007f					ctermfg=231	ctermbg=18
 hi CursorColumn						guibg=#ffffff								ctermbg=231
 hi CursorLine						guibg=#ffffff								ctermbg=231
+hi CursorLineNr		guifg=#ffffff	guibg=#0000ff	gui=bold,underline	ctermfg=231	ctermbg=21	cterm=bold,underline
 hi Delimiter		guifg=#00007f									ctermfg=18
 hi DiffAdd			guifg=#007a00	guibg=#e5e5e5					ctermfg=28	ctermbg=254
 hi DiffChange		guifg=#00007f	guibg=#e5e5e5					ctermfg=18	ctermbg=254
@@ -37,6 +38,7 @@ hi FoldColumn		guifg=#00007f	guibg=#e5e5e5					ctermfg=18	ctermbg=254
 hi Folded			guifg=#00007f	guibg=#e5e5e5					ctermfg=18	ctermbg=254
 hi Function			guifg=#7f0000									ctermfg=88
 hi Identifier		guifg=#007a00									ctermfg=28
+hi Ignore			guifg=#b0b0b0									ctermfg=145
 hi Include			guifg=#295498					gui=bold		ctermfg=24				cterm=bold
 hi IncSearch		guifg=#ffffff	guibg=#0000ff	gui=bold		ctermfg=231	ctermbg=21	cterm=bold
 hi Keyword			guifg=#00007f									ctermfg=18
@@ -64,6 +66,7 @@ hi PreCondit		guifg=#295498					gui=bold		ctermfg=24				cterm=bold
 hi PreProc			guifg=#0a447e					gui=bold		ctermfg=24				cterm=bold
 hi Question			guifg=#00007f									ctermfg=18
 hi Search							guibg=#ffff00								ctermbg=226
+hi SignColumn		guifg=#303030	guibg=#e5e5e5					ctermfg=236	ctermbg=254
 hi Special			guifg=#007a00									ctermfg=28
 hi SpecialKey		guifg=#00007f									ctermfg=18
 hi SpellBad			guifg=#7f0000	guibg=#f0f0f0	gui=undercurl	ctermfg=88	ctermbg=255	cterm=undercurl	guisp=#7f0000
@@ -73,6 +76,8 @@ hi SpellRare		guifg=#cc6600	guibg=#f0f0f0	gui=undercurl	ctermfg=166	ctermbg=255	
 hi Statement		guifg=#00007f					gui=none		ctermfg=18
 hi StatusLine		guifg=#00007f	guibg=#ffffff					ctermfg=18	ctermbg=231
 hi StatusLineNC		guifg=#676767	guibg=#ffffff					ctermfg=241	ctermbg=231
+hi StatusLineTerm	guifg=#ffffff	guibg=#676767					ctermfg=231	ctermbg=241
+hi StatusLineTermNC	guifg=#676767	guibg=#ffffff					ctermfg=241	ctermbg=231
 hi String			guifg=#d11518									ctermfg=160
 hi TabLine			guifg=#222222	guibg=#d6d6d6					ctermfg=235	ctermbg=188
 hi TabLineFill		guifg=#d6d6d6												ctermbg=188
