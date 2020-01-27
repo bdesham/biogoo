@@ -50,10 +50,16 @@ hi NonText			guifg=#007a00									ctermfg=28
 hi Normal			guifg=#000000	guibg=#d6d6d6					ctermfg=16	ctermbg=188
 hi Number			guifg=#cc6600									ctermfg=166
 hi Operator			guifg=#00007f									ctermfg=18
-hi Pmenu			guifg=#000000	guibg=#cc9999					ctermfg=16	ctermbg=174
-hi PmenuSbar						guibg=#99cc99								ctermbg=114
-hi PmenuSel			guifg=#ffffff	guibg=#993333					ctermfg=231	ctermbg=95
-hi PmenuThumb		guifg=#339933									ctermfg=65	ctermbg=16
+hi Pmenu			guifg=#303030	guibg=#ffa858					ctermfg=236	ctermbg=215
+hi PmenuSbar						guibg=#e5e5e5								ctermbg=254
+hi PmenuSel			guifg=#ffffff	guibg=#cc6200					ctermfg=231	ctermbg=166
+" This is a compatibility hack. Previous versions of biogoo set a green
+" foreground for PmenuThumb, but that was a mistake: Vim only cares about the
+" *background* color of PmenuThumb. When I created the vim-airline theme for
+" biogoo I referenced that color in a couple of places, and I've kept it defined
+" here so that older versions of the vim-airline theme will continue to work as
+" expected. (Newer versions use the green color from MatchParen instead.)
+hi PmenuThumb		guifg=#00a000	guibg=#606060					ctermfg=34	ctermbg=59
 hi PreCondit		guifg=#295498					gui=bold		ctermfg=24				cterm=bold
 hi PreProc			guifg=#0a447e					gui=bold		ctermfg=24				cterm=bold
 hi Question			guifg=#00007f									ctermfg=18
