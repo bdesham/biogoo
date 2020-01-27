@@ -1,8 +1,8 @@
 " Vim color file
 " Name:			biogoo
 " Maintainer:	Benjamin Esham
-" Last Change:	2017-11-11
-" Version:		2.1
+" Last Change:	2020-02-01
+" Version:		3.0
 " Website:		https://github.com/bdesham/biogoo
 "
 " A color scheme for Vim with colorful text on a light gray background.

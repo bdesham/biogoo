@@ -16,7 +16,7 @@ to your vimrc. To install manually, copy the “biogoo.vim” file into your ~/.
 
 ## Compatibility
 
-Biogoo works with “GUI mode” (not “terminal mode”) under Vim versions 6–8.
+Biogoo works in GUI Vim and in 256-color terminals. It should work with Vim 6 and with any later version.
 
 If you’re using [vim-airline], you can find a Biogoo theme in the official [vim-airline-themes] repository. (The screenshot above demonstrates the vim-airline theme.) To use it, make sure you have both vim-airline and vim-airline-themes installed and run
 
@@ -37,6 +37,10 @@ Thanks are due to Scott F., Matt F., and sc for feature suggestions and bug repo
 
 ## Version history
 
+* 3.0 (2020-02-01)
+    - Added support for 256-color terminals.
+    - Changed the color scheme of the popup menu from red with green scrollbars to orange with gray scrollbars.
+    - Added support for the CursorLineNr, Ignore, SignColumn, StatusLineTerm, and StatusLineTermNC highlighting groups.
 * 2.1 (2017-11-11)
     - Made relatively minor changes to the brightness and saturation of several of the colors.
 * 2.0 (2016-04-28)
