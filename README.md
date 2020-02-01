@@ -6,11 +6,15 @@ A color scheme for Vim with colorful text on a light gray background.
 
 ## Installation
 
-If you’re using [vim-plug], add
+Copy the “biogoo.vim” file from this repository into your ~/.vim/colors directory. (You’ll need to create that directory if it doesn’t already exist.) You can download the file directly from [this link][file].
+
+[file]: https://github.com/bdesham/biogoo/raw/master/colors/biogoo.vim
+
+If you’re using [vim-plug] to manage plugins, add
 
     Plug 'bdesham/biogoo'
 
-to your vimrc. To install manually, copy the “biogoo.vim” file into your ~/.vim/colors directory.
+to your vimrc. Other plugin managers probably need a similar invocation.
 
 [vim-plug]: https://github.com/junegunn/vim-plug
 
