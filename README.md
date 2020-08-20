@@ -2,13 +2,13 @@
 
 A color scheme for Vim with colorful text on a light gray background.
 
-<img src="https://github.com/bdesham/biogoo/raw/master/screenshot.png" alt="Screenshot of this color scheme" width="683"/>
+<img src="https://github.com/bdesham/biogoo/raw/main/screenshot.png" alt="Screenshot of this color scheme" width="683" height="610"/>
 
 ## Installation
 
 Copy the “biogoo.vim” file from this repository into your ~/.vim/colors directory. (You’ll need to create that directory if it doesn’t already exist.) You can download the file directly from [this link][file].
 
-[file]: https://github.com/bdesham/biogoo/raw/master/colors/biogoo.vim
+[file]: https://github.com/bdesham/biogoo/raw/main/colors/biogoo.vim
 
 If you’re using [vim-plug] to manage plugins, add
 
