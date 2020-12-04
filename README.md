@@ -41,6 +41,8 @@ Thanks are due to Scott F., Matt F., and sc for feature suggestions and bug repo
 
 ## Version history
 
+* 3.1 (2020-12-03)
+    - Changed the styles used by Vim’s `'listchars'` feature: the end-of-line markers are no longer bold and the other markers are now orange instead of blue.
 * 3.0 (2020-02-01)
     - Added support for 256-color terminals.
     - Changed the color scheme of the popup menu from red with green scrollbars to orange with gray scrollbars.
