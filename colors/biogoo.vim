@@ -48,7 +48,7 @@ hi Macro			guifg=#295498									ctermfg=24
 hi MatchParen		guifg=#ffffff	guibg=#00a000					ctermfg=231	ctermbg=34
 hi ModeMsg			guifg=#00007f									ctermfg=18
 hi MoreMsg			guifg=#00007f									ctermfg=18
-hi NonText			guifg=#007a00									ctermfg=28
+hi NonText			guifg=#007a00					gui=None		ctermfg=28
 hi Normal			guifg=#000000	guibg=#d6d6d6					ctermfg=16	ctermbg=188
 hi Number			guifg=#cc6600									ctermfg=166
 hi Operator			guifg=#00007f									ctermfg=18
@@ -68,7 +68,7 @@ hi Question			guifg=#00007f									ctermfg=18
 hi Search							guibg=#ffff00								ctermbg=226
 hi SignColumn		guifg=#303030	guibg=#e5e5e5					ctermfg=236	ctermbg=254
 hi Special			guifg=#007a00									ctermfg=28
-hi SpecialKey		guifg=#00007f									ctermfg=18
+hi SpecialKey		guifg=#cc6200									ctermfg=166
 hi SpellBad			guifg=#7f0000	guibg=#f0f0f0	gui=undercurl	ctermfg=88	ctermbg=255	cterm=undercurl	guisp=#7f0000
 hi SpellCap			guifg=#7f007f	guibg=#f0f0f0	gui=undercurl	ctermfg=90	ctermbg=255	cterm=undercurl	guisp=#7f007f
 hi SpellLocal		guifg=#007f7f	guibg=#f0f0f0	gui=undercurl	ctermfg=30	ctermbg=255	cterm=undercurl	guisp=#007f7f
