@@ -55,23 +55,23 @@ Thanks are due to Scott F., Matt F., and sc for feature suggestions and bug repo
 * 1.6.2 (2011-02-28)
     - Put the README-type content into a separate file and put everything into a GitHub repository.  (No changes to the color scheme itself.)
 * 1.6.1 (2010-08-16)
-	- Fixed some oversights in 1.6.
+    - Fixed some oversights in 1.6.
 * 1.6
-	- Swapped the spelling-error color so that setting `'cursorline'` or `'cursorcolumn'` doesn't make words invisible; added `ColorColumn` to support `'colorcolumn'` in Vim 7.3.
+    - Swapped the spelling-error color so that setting `'cursorline'` or `'cursorcolumn'` doesn't make words invisible; added `ColorColumn` to support `'colorcolumn'` in Vim 7.3.
 * 1.5
-	- Should fully support Vim 7 now.
+    - Should fully support Vim 7 now.
 * 1.4
-	- More Vim 7 support: added the `MatchParen` group for ()[]{} matching.
+    - More Vim 7 support: added the `MatchParen` group for ()[]{} matching.
 * 1.3
-	- Added support for Vim 7: added groups for the new spellchecking, and added a conditional to display Visual mode correctly in any version.
+    - Added support for Vim 7: added groups for the new spellchecking, and added a conditional to display Visual mode correctly in any version.
 * 1.2
-	- Added `SpellErrors` group for use with vimspell.
+    - Added `SpellErrors` group for use with vimspell.
 * 1.1
-	- Added `IncSearch` group for improved visibility in incremental searches.
+    - Added `IncSearch` group for improved visibility in incremental searches.
 * 1.0
-	- Minor tweaks.
+    - Minor tweaks.
 * 0.95 (2002-09-28)
-	- Initial release.
+    - Initial release.
 
 ## License
 
