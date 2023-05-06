@@ -23,7 +23,7 @@ hi Constant			guifg=#0000ff									ctermfg=21
 hi Cursor			guifg=#ffffff	guibg=#00007f					ctermfg=231	ctermbg=18
 hi CursorColumn						guibg=#ffffff								ctermbg=231
 hi CursorLine						guibg=#ffffff								ctermbg=231
-hi CursorLineNr		guifg=#ffffff	guibg=#0000ff	gui=bold,underline	ctermfg=231	ctermbg=21	cterm=bold,underline
+hi CursorLineNr		guifg=#ffffff	guibg=#0000ff	gui=bold		ctermfg=231	ctermbg=21	cterm=bold
 hi Delimiter		guifg=#00007f									ctermfg=18
 hi DiffAdd			guifg=#007a00	guibg=#e5e5e5					ctermfg=28	ctermbg=254
 hi DiffChange		guifg=#00007f	guibg=#e5e5e5					ctermfg=18	ctermbg=254
@@ -43,7 +43,7 @@ hi Include			guifg=#295498					gui=bold		ctermfg=24				cterm=bold
 hi IncSearch		guifg=#ffffff	guibg=#0000ff	gui=bold		ctermfg=231	ctermbg=21	cterm=bold
 hi Keyword			guifg=#00007f									ctermfg=18
 hi Label			guifg=#404040									ctermfg=238
-hi LineNr			guifg=#303030	guibg=#e5e5e5	gui=underline	ctermfg=236	ctermbg=254	cterm=underline
+hi LineNr			guifg=#303030	guibg=#e5e5e5					ctermfg=236	ctermbg=254
 hi Macro			guifg=#295498									ctermfg=24
 hi MatchParen		guifg=#ffffff	guibg=#00a000					ctermfg=231	ctermbg=34
 hi ModeMsg			guifg=#00007f									ctermfg=18
