@@ -2,7 +2,7 @@
 
 A color scheme for Vim with colorful text on a light gray background.
 
-<img src="https://github.com/bdesham/biogoo/raw/main/screenshot.png" alt="Screenshot of this color scheme" width="683" height="610"/>
+<img src="https://github.com/bdesham/biogoo/raw/main/screenshot.png" alt="Screenshot of Vim using the biogoo color scheme" width="640" height="400"/>
 
 ## Installation
 
@@ -29,6 +29,10 @@ If you’re using [vim-airline], you can find a Biogoo theme in the official [vi
 [vim-airline]: https://github.com/vim-airline/vim-airline
 [vim-airline-themes]: https://github.com/vim-airline/vim-airline-themes
 
+## Etymology
+
+I was originally going to make a color scheme based on the shades of green I saw in a photo of a slime mold—a biological goo. I ended up using a bunch of different colors instead, but I kept the original name.
+
 ## Author
 
 This color scheme was created by [Benjamin Esham](https://esham.io).
@@ -41,6 +45,8 @@ Thanks are due to Scott F., Matt F., and sc for feature suggestions and bug repo
 
 ## Version history
 
+* 3.2 (2023-06-01)
+    - Line numbers are no longer underlined.
 * 3.1 (2020-12-03)
     - Changed the styles used by Vim’s `'listchars'` feature: the end-of-line markers are no longer bold and the other markers are now orange instead of blue.
 * 3.0 (2020-02-01)
