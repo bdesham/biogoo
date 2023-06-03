@@ -45,7 +45,7 @@ Thanks are due to Scott F., Matt F., and sc for feature suggestions and bug repo
 
 ## Version history
 
-* 3.2 (2023-06-01)
+* 3.2 (2023-06-02)
     - Line numbers are no longer underlined.
 * 3.1 (2020-12-03)
     - Changed the styles used by Vim’s `'listchars'` feature: the end-of-line markers are no longer bold and the other markers are now orange instead of blue.
